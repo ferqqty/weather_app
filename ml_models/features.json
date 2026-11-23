@@ -1,0 +1,29 @@
+{
+  "features": [
+    "temperature",
+    "feels_like",
+    "humidity",
+    "wind_speed",
+    "pressure",
+    "visibility",
+    "is_rain",
+    "is_snow",
+    "is_clear",
+    "is_cloudy",
+    "hour_of_day",
+    "month",
+    "season_winter",
+    "season_spring",
+    "season_summer",
+    "season_autumn",
+    "is_fog",
+    "is_storm"
+  ],
+  "metrics": {
+    "accuracy": 0.7943262411347518,
+    "precision": 0.7900582151405632,
+    "recall": 0.7943262411347518,
+    "f1_score": 0.7884078424441378
+  },
+  "training_samples": 2114
+}
